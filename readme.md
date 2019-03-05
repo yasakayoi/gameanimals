@@ -1,3 +1,1 @@
-# Animals
-
-![Game Animals](display/demo.gif)
+![avatar](https://github.com/yasakayoi/gameanimals/blob/master/aniaml.gif)
